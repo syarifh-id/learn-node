@@ -1,0 +1,19 @@
+git config -- global user.name ""
+git config -- global user.email ""
+
+
+git init
+git status 
+git add (. ; *.html ; xxx.html)
+git commit -m "message" 
+ 
+git commit -am "message"
+
+git log (--oneline)
+git diff (key)
+
+git add name-remote remote-address
+git remote
+git remote -v
+
+git push name-remote branch-name

@@ -1,0 +1,14 @@
+cara menggunakan vite dalam mengembangakan apliksi front-end dengan reactjs 
+
+menggunakan vite karena lebih bersih bebas bloatware dll
+
+bisa menggunakan pnpm, nmp, yarn dll.
+
+
+pnpm create vite my-app
+
+cd /my-app
+
+pnpm insatall
+
+ run dev
