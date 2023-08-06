@@ -1,8 +1,15 @@
+dasar dasar caramenggunakan GIT untuk programmer
+
+setting identitas git 
+
 git config -- global user.name ""
 git config -- global user.email ""
 
+inisiasi folder untuk dijadikan repository local
 
 git init
+
+
 git status 
 git add (. ; *.html ; xxx.html)
 git commit -m "message" 
