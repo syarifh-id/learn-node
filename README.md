@@ -1,2 +1,2 @@
-# learn-notes
-my notes while learning programming
+# learn-node
+my notes while learning nodejs
